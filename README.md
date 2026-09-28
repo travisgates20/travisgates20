@@ -25,7 +25,7 @@ A physical, isolated homelab environment built around three Proxmox hosts for ha
 - Windows security hardening
 - Linux administration
 - Networking
-- Infrastructure automation
+- Infrastructure automation (planned)
 
 The project includes architecture documentation, network design, security baselines, and implementation details.
 
@@ -39,7 +39,7 @@ The project includes architecture documentation, network design, security baseli
 - ISC2 CC
 - AWS CCP
 
-## 📖 Currently Learning
+## Currently Learning
 
 - Kubernetes administration
 - Infrastructure as Code
